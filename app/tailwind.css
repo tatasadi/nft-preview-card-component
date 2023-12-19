@@ -10,6 +10,6 @@
 
 @layer utilities {
   .footer-link {
-    @apply cursor-pointer underline;
+    @apply cursor-pointer text-cyan underline;
   }
 }
