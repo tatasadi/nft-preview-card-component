@@ -10,7 +10,7 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <main className="max-w-[21.875rem] px-6 py-[3.88rem]">
-      <div className="rounded-[0.9375rem] bg-darker-blue-2 p-6">
+      <div className="rounded-[0.9375rem] bg-darker-blue-2 p-6 shadow-[0_25px_50px_0_rgba(0,0,0,0.10)]">
         <div className="relative cursor-pointer">
           <picture>
             <source srcSet="/images/image-equilibrium.jpg" type="image/jpg" />
